@@ -1,7 +1,11 @@
 # Optimized Webpage For Marketing Agency
 
 ## Table of Contents
-Why I built this project
+* [Information](#information)
+* [Installation](#installation)
+* [Credits](#credits)
+* [License](#license)
+* [Tests](#tests)
 
 ## Information
 This page was given to me by the edX bootcamp: Skills Boot Camp in Front-End Web Development
