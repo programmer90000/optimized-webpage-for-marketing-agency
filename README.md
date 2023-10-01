@@ -1,11 +1,19 @@
 # Optimized Webpage For Marketing Agency
 
 ## Table of Contents
+* [Screenshot of page](#screenshot)
 * [Information](#information)
 * [Installation](#installation)
 * [Credits](#credits)
 * [License](#license)
 * [Tests](#tests)
+
+## Screenshot
+![Image 1 of page](screenshots/screenshot1.png)
+
+![Image 2 of page](screenshots/screenshot2.png)
+
+![Image 3 of page](screenshots/screenshot3.png)
 
 ## Information
 This page was given to me by the edX bootcamp: Skills Boot Camp in Front-End Web Development
